@@ -1,5 +1,6 @@
 
 # Blinkit 
+![blinkit](https://github.com/user-attachments/assets/df8a12e3-b3b2-462b-9abd-8a89edcb2c71)
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and visualizations in Power BI.
 
